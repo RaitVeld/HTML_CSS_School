@@ -1,0 +1,12 @@
+@charset "utf-8";
+.hiiy7 {
+	background-attachment: scroll;
+	background-color: #90F;
+	background-image: url(../images/round.jpg);
+	background-repeat: no-repeat;
+	background-position: center center;
+	height: 500px;
+	width: 90%;
+	margin-right: auto;
+	margin-left: auto;
+}

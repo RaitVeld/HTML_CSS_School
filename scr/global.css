@@ -1,12 +1,12 @@
 @charset "utf-8";
 /* CSS Document */
 body{
-	background-image: url(images/blackgrind.jpg);
+	background-image: url(images/bg.jpg);
 	background-repeat:repeat;
 	
 }
 h1{
-	color:red;
+	color:#F3F;
 	font-size:2em;
 	font-family:Arial, sans-serif;
 	margin:0;
